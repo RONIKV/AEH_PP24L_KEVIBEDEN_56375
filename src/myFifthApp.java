@@ -1,6 +1,6 @@
 public class myFifthApp {
     public static void main(String[] args) {
-        // Yeni yöntemin örnek kullanımı
+        //
         printCharacter('X', 5, 3); //
     }
 
