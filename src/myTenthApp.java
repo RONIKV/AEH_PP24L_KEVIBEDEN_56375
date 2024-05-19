@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class myTenthApp {
     public static int[] countAndSumElements(int[] input) {
         if (input == null || input.length == 0) {
-            return new int[0]; // input boş veya null ise boş bir dizi döndür
+            return new int[0]; 
         }
 
         int negativeCount = 0;
